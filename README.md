@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, im Alejandro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Javascript Python and Reactjs (and a beginner designer) developer from Barcelona</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **On my portfolio**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **deepening React and Redux library**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
