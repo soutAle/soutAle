@@ -41,11 +41,11 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
+<p align="center"> ### 🤝🏻 &nbsp;Connect with Me </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alevalencia/"><img src="https://img.shields.io/badge/-Alex-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:alevalencigiraldol@gmail.com"><img src="https://img.shields.io/badge/-Alex-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/alecvalenc/"><img src="https://img.shields.io/badge/-Alex-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alevalencia/"><img src="https://img.shields.io/badge/-alevalencia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:alevalencigiraldol@gmail.com"><img src="https://img.shields.io/badge/-alevalenci@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/alecvalenc/"><img src="https://img.shields.io/badge/-alecvalenc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
