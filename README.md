@@ -6,12 +6,12 @@
 
 👨‍💻 &nbsp;I am passionate about coding and looking for new challenges that will make me learn.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering.\
+🎓 &nbsp;I'm currently learning about data structures and algorithms.\
 🌱 &nbsp;I am looking for my first job in the world of technology, I am eager to contribute my knowledge and grow professionally.\
 ✍️ &nbsp;I like doing sports, especially in the mountains, read, and of course, writing code!.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at alevalencigiraldo@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
