@@ -6,9 +6,9 @@
 
 👨‍💻 &nbsp;I am passionate about coding and looking for new challenges that will make me learn.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently learning about data structures and algorithms.\
+🎓 &nbsp;I'm currently learning about data structures, algorithms, and improve my projects realised during the bootcamp.\
 🌱 &nbsp;I am looking for my first job in the world of technology, I am eager to contribute my knowledge and grow professionally.\
-✍️ &nbsp;I like doing sports, especially in the mountains, read, and of course, writing code!.\
+✍️ &nbsp;I like doing sports, especially in the mountains, read, and of course, writing code!\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at alevalencigiraldo@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my for more details about me. I'm open to feedback and suggestions!
