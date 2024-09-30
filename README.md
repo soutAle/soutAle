@@ -17,15 +17,15 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,py,html,css,bootstrap,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,py,html,css,bootstrap,flask&theme=light)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Databases
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlalchemy)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=light)](https://skillicons.dev)
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,npm&theme=light)](https://skillicons.dev)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
