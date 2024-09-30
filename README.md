@@ -1,6 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Bienvenidos! soy Alex, programador full stack este es mi git y actualmente trabajo en mejorarlo 🚧</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Bienvenido a mi git, mi nombre es Alex! </h2>
 
-<!-- ## 👋 &nbsp;Bienvenidos! soy Alex, programador full stack este es mi git y actualmente trabajo en mejorarlo 🚧-->
+<!-- ## 👋 &nbsp;🚧-->
 
 ### 👨🏻‍💻 &nbsp;About Me
 👨‍💻  Soy un apasionado de la programación, siempre en busca de nuevos retos que me ayuden a aprender y crecer. Me encanta explorar nuevas tecnologías y desarrollar soluciones de software.
