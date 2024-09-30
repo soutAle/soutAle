@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Alex!</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Bienvenidos! soy Alex, programador full stack este es mi git y actualmente trabajo en mejorarlo 🚧</h2>
 
 <!-- ## 👋 &nbsp;Bienvenidos! soy Alex, programador full stack este es mi git y actualmente trabajo en mejorarlo 🚧-->
 
