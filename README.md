@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Alex!</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Alex-->
+<!-- ## 👋 &nbsp;Bienvenidos! soy Alex, programador full stack este es mi git y actualmente trabajo en mejorarlo 🚧-->
 
 ### 👨🏻‍💻 &nbsp;About Me
 👨‍💻  Soy un apasionado de la programación, siempre en busca de nuevos retos que me ayuden a aprender y crecer. Me encanta explorar nuevas tecnologías y desarrollar soluciones de software.
