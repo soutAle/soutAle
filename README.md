@@ -1,4 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Bienvenido a mi git, mi nombre es Alex! </h2>
+<img alt="Night Coding" src="https://repository-images.githubusercontent.com/197383174/16a44e80-a92d-11e9-973b-2b285df0da3b" align="right"/>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Bienvenido a mi Github, mi nombre es Alex! </h2>
+
 
 <!-- ## 👋 &nbsp;🚧-->
 
