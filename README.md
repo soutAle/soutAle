@@ -5,9 +5,9 @@
 <!-- ## 👋 &nbsp;🚧-->
 
 ### 👨🏻‍💻 &nbsp;About Me
-👨‍💻  Soy un apasionado de la programación, siempre en busca de nuevos retos que me ayuden a aprender y crecer. Me encanta explorar nuevas tecnologías y desarrollar soluciones de software.
+👨‍💻  Soy un profesional en transición, dejando atrás una carrera en la hostelería para adentrarme en el fascinante mundo de la tecnología. Estoy muy motivado y emocionado por este cambio de sector, ya que me permite explorar nuevas oportunidades y desarrollar habilidades en un campo en constante evolución.
 
-🎓  Actualmente, estoy profundizando en estructuras de datos y algoritmos, mientras mejoro mis proyectos del bootcamp.
+🎓  Actualmente, estoy profundizando en estructuras de datos y algoritmos, mientras mejoro mis proyectos del bootcamp implementado una arquitectura SOLID.
 
 🌱  Estoy buscando mi primera oportunidad en el mundo tech, con muchas ganas de contribuir y seguir creciendo profesionalmente.
 
