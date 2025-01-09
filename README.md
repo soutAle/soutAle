@@ -1,4 +1,3 @@
-<img alt="Night Coding" src="[https://repository-images.githubusercontent.com/197383174/16a44e80-a92d-11e9-973b-2b285df0da3b](https://e0.pxfuel.com/wallpapers/531/975/desktop-wallpaper-computer-quotes-funny-ultra-background-for-u-tv-tablet-smartphone-talk-is-cheap-show-me-the-code.jpg)" align="right"/>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Bienvenido a mi Github, mi nombre es Alex! </h2>
 
 
