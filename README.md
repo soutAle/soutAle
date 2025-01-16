@@ -1,7 +1,5 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Bienvenido a mi Github, mi nombre es Alex! </h2>
-
-
-<!-- ## 👋 &nbsp;🚧-->
+![Texto alternativo](https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1709890658/catalog/1456315063303368704/j5qumu91vf7wdrvmynei.webp)
 
 ### 👨🏻‍💻 &nbsp;About Me
 ♻️  Soy un profesional en transición, dejando atrás una carrera en la hostelería para adentrarme en el fascinante mundo de la tecnología. Estoy muy motivado y emocionado por este cambio de sector, ya que me permite explorar nuevas oportunidades y desarrollar habilidades en un campo en constante evolución.
