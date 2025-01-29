@@ -1,17 +1,19 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Bienvenido a mi Github, mi nombre es Alex! </h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1 align="left">Welcome to my Github, my name is Alex! 👋 </h1>
+**Here you will find my projects made mostly with react javascript python flask among others.**
+**I hope you like it.**
 
 ### 👨🏻‍💻 &nbsp;About Me
-♻️  Soy un profesional en transición, dejando atrás una carrera en la hostelería para adentrarme en el fascinante mundo de la tecnología. Estoy muy motivado y emocionado por este cambio de sector, ya que me permite explorar nuevas oportunidades y desarrollar habilidades en un campo en constante evolución.
+♻️  After a career in hospitality, I have embarked on a new path in the world of technology. With enthusiasm and determination, I seek to develop my skills in a sector full of opportunities and challenges, where innovation and continuous learning are key to professional growth.
 
-🎓  Actualmente, estoy profundizando en estructuras de datos y algoritmos, mientras mejoro mis proyectos del bootcamp implementado una arquitectura SOLID.
+🎓  Currently, I am delving deeper into data structures and algorithms, while improving my bootcamp projects by implementing a SOLID architecture.
 
-🌱  Estoy en la búsqueda de mi primera oportunidad en el sector tecnológico, entusiasmado por contribuir y continuar mi crecimiento profesional.
+🌱  I am looking for my first opportunity in the technology sector, excited to contribute and continue my professional growth.
 
-✍️  Disfruto del deporte, especialmente en la montaña, la lectura y, por supuesto, ¡escribir código!
+✍️  I enjoy sports, especially in the mountains, reading and, of course, writing code!
 
-✉️  ¡Escríbeme a alevalencigiraldo@gmail.com! Responderé lo antes posible.
+✉️  Write to me at alevalencigiraldo@gmail.com! I will respond as soon as possible.
 
-📄  Echa un vistazo a mi perfil para más información. ¡Agradezco tus comentarios y sugerencias!
+📄  Check out my profile for more information, I welcome your comments and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
